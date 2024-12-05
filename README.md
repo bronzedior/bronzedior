@@ -11,10 +11,10 @@ Strive to have strong fundamental on Backend
 <a href="https://docker.com/"><img style="vertical-align: middle;" title="Docker" alt="Docker" src="./assets/docker-icon.svg" height=32></a>&ensp;
 
 ### My Stats
-<!-- Commits : <img title="commits" alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=bronzedior&show=commits&count_private=true&theme=dark">
+Commits : <img title="commits" alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=bronzedior&show=commits&count_private=true&theme=dark">
 
 Pull Requests : <img title="prs" alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=bronzedior&show=prs&count_private=true&theme=dark">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bronzedior) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=bronzedior) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronzedior&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronzedior&show_icons=true&theme=transparent) -->
