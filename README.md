@@ -14,3 +14,5 @@ Strive to have strong fundamental on Backend
 Commits : <img title="commits" alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=bronzedior&show=commits&count_private=true&theme=dark">
 
 Pull Requests : <img title="prs" alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=bronzedior&show=prs&count_private=true&theme=dark">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bronzedior)
