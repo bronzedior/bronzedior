@@ -5,6 +5,7 @@ I'm interested in infrastructure engineering and system design, and enjoy figuri
 ### Tech Stack
 <a href="https://golang.org/"><img style="vertical-align: middle;" title="Go (Golang)" alt="Go (Golang)" src="./assets/golang-icon.svg" width=40></a>&ensp;
 <a href="https://www.python.org/"><img style="vertical-align: middle;" title="Python" alt="Python" src="./assets/python-icon.svg" height=28></a>&ensp;
+<a href="https://www.swift.org/"><img style="vertical-align: middle;" title="Swift" alt="Swift" src="./assets/swift-icon.svg" height=28></a>&ensp;
 <a href="https://postgresql.org/"><img style="vertical-align: middle;" title="PostgreSQL" alt="PostgreSQL" src="./assets/postgresql-icon.svg" height=28></a>&ensp;
 <a href="https://git-scm.com/"><img style="vertical-align: middle;" title="Git" alt="Git" src="./assets/git-scm-icon.svg" height=28></a>&ensp;
 <a href="https://docker.com/"><img style="vertical-align: middle;" title="Docker" alt="Docker" src="./assets/docker-icon.svg" height=32></a>&ensp;
